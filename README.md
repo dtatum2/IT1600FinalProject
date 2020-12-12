@@ -1,6 +1,7 @@
 # IT1600FinalProject
 Digital Systems Final Project
 #### Authored by: Damon Tatum II
+## this is directed to milenialls
 ___
 The purpose of this tutorial is to teach you how to use instagram and upload
 ___
@@ -38,4 +39,4 @@ https://www.firstpost.com/tech/news-analysis/instagram-starts-rolling-out-new-va
 # get started with instagram now @
 https://www.instagram.com/
 
-## this is directed to milenialls
+
