@@ -35,4 +35,5 @@ https://www.firstpost.com/tech/news-analysis/instagram-starts-rolling-out-new-va
 
 #### some other acccessories to help you use instamragm are on the home page as well
 
-# get started with instagram now
+# get started with instagram now @
+https://www.instagram.com/
