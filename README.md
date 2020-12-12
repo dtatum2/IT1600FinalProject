@@ -14,3 +14,5 @@ Buttons| Usage |
 | add  | post pictures or videos |
 | Shop| buy something off of instgram shop sites |
 | profile | edit profile or change settings |
+
+[id]: https://www.iphoneincanada.ca/news/ig-redesign-reels/  "The Dojocat"
