@@ -32,3 +32,7 @@ Buttons| Usage |
 ### as instagram has started to increasingly have more and more updates, more people have started to use it
 ## read this article below for new updates
 https://www.firstpost.com/tech/news-analysis/instagram-starts-rolling-out-new-vanish-mode-how-it-works-9100491.html 
+
+#### some other acccessories to help you use instamragm are on the home page as well
+
+# get started with instagram now
