@@ -28,3 +28,7 @@ Buttons| Usage |
 | Reels  | reels are just series or short videos |
 | Live| this is how you go live and start a video where any of your followers can join |
 ##### there are also plenty of filters you can use as well but we don't need to get into that
+
+### as instagram has started to increasingly have more and more updates, more people have started to use it
+## view this video below
+Autoconverted link https://www.firstpost.com/tech/news-analysis/instagram-starts-rolling-out-new-vanish-mode-how-it-works-9100491.html (enable linkify to see)
